@@ -6,8 +6,8 @@
 </description>
     <link>http://stevefister.github.io//</link>
     <atom:link href="http://stevefister.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 07 Apr 2015 19:34:28 -0400</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2015 19:34:28 -0400</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2015 19:40:40 -0400</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2015 19:40:40 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,6 +15,8 @@
         <description>&lt;p&gt;Houston, we have no problems! After a few hours of researching blogging platforms, I decided on &lt;a href=&quot;http://jekyllrb.com&quot;&gt;jekyll&lt;/a&gt;! It seemed the best fit for my needs during the process of learning to develop mobile apps -which is what this blog is about!&lt;/p&gt;
 
 &lt;p&gt;My plan is to post updates during my learning experience, in the hopes that I can save someone else time and aggravation, and give them hope. The key word here is, indeed, &amp;quot;hope&amp;quot;. With my full time job and a family of five, this is going to be a huge undertaking, I hope I can make it all the way!&lt;/p&gt;
+
+&lt;p&gt;By the way, I&amp;#39;m using &lt;a href=&quot;http://brackets.io&quot;&gt;Brackets&lt;/a&gt; for editing all of these markdown posts. So far, so good! There&amp;#39;s a nice plugin which allows you to visualize your page as you are writing it.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;#39;re interested in following my progress, &lt;a class=&quot;subscribe&quot; href=&quot;/feed.xml&quot;&gt; &lt;span class=&quot;tooltip&quot;&gt; &lt;i class=&quot;fa fa-rss&quot;&gt;&lt;/i&gt; Subscribe!&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 </description>

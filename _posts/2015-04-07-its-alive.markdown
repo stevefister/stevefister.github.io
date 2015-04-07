@@ -6,13 +6,15 @@ categories: jekyll alive
 tags: regular
 ---
 
-Houston, we have no problems! After a few hours of researching blogging platforms, I decided on [jekyll]! It seemed the best fit for my needs during the process of learning to develop mobile apps -which is what this blog is about!
+Houston, we have no problems! After a few hours of researching blogging platforms, I decided on [jekyll][]! It seemed the best fit for my needs during the process of learning to develop mobile apps -which is what this blog is about!
 
 My plan is to post updates during my learning experience, in the hopes that I can save someone else time and aggravation, and give them hope. The key word here is, indeed, "hope". With my full time job and a family of five, this is going to be a huge undertaking, I hope I can make it all the way!
 
+By the way, I'm using [Brackets][] for editing all of these markdown posts. So far, so good! There's a nice plugin which allows you to visualize your page as you are writing it.
+
 If you're interested in following my progress, <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
 
-
+[Brackets]:    http://brackets.io
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
