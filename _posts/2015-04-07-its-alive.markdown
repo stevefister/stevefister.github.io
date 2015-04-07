@@ -3,7 +3,7 @@ layout: post
 title:  "It's Alive!"
 date:   2015-04-07 19:19:25
 categories: jekyll alive
-tags: featured
+tags: regular
 ---
 
 Houston, we have no problems! After a few hours of researching blogging platforms, I decided on [Jekyll]! It seemed the best fit for my needs during the process of learning to develop mobile apps -which is what this blog is about!
